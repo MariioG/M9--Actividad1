@@ -35,7 +35,7 @@ body{
    
 .titulo{
   padding-top: 3%;
-  padding-left: 41%;
+  padding-left: 47%;
 }
 .foto{
   padding-right: 60%;
@@ -105,6 +105,31 @@ body {
   .lightbox > div {
     margin-bottom: 10px;
   }
+  .carousel-inner{
+    width: auto;
+    height: auto;
+  }
+  .titulo{
+    align-content: center;
+  }
+  
+ .h3{
+  padding-left: 1%;
+ }
+ .h5{
+  padding-left: 1%;
+ }
+ .h4{
+  padding-left: 1%;
+ }
+ .logo{
+  display:block;
+ }
+ .navbar-brand{
+  display: none;
+ }
+ 
+ 
 }
 
 /*Lighbox CSS*/
